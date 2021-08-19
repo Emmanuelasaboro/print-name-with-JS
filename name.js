@@ -1,2 +1,2 @@
 let printname = "Emmanuel Asaboro";
-console.log(printname);
+document.write(printname);
